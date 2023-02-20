@@ -6,7 +6,7 @@ import './header.css';
 const Header = () => (
   <div className="gpt3__header section__padding" id="home">
     <div className="gpt3__header-content">
-      <h1 className="gradient__text">A thrilling engaging, innovative, corporate title</h1>
+      <h1 className="gradient__text">Some cool corporate title</h1>
       <p>Some cool corporate text : Revolutionize the way you work with our cutting-edge tech. Our startup provides innovative solutions to streamline your business and increase efficiency.</p>
 
       <div className="gpt3__header-content__input">
